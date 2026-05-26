@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aritrik Ghosh</h1>
-<h3 align="center">Computer Science Engineering Student | AI & ML Enthusiast | Full Stack Developer</h3>
+
+<h3 align="center">
+M.Tech CSE Student | Software Developer | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Deep+Learning+Researcher;Computer+Vision+Enthusiast;Full+Stack+Developer;Wildfire+Detection+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=M.Tech+CSE+Student;Software+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Computer+Vision+Researcher" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,13 +14,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech CSE Student
-- 🔥 Researching on **Forest Fire Detection using YOLOv8**
+- 🎓 M.Tech Computer Science & Engineering Student
+- 💻 Passionate Software Developer
+- 🔥 Working on Forest Fire Detection using YOLOv8
 - 🤖 Interested in:
+  - Artificial Intelligence
   - Machine Learning
   - Deep Learning
   - Computer Vision
-  - Neuro-Symbolic AI
   - Full Stack Development
 
 - 🌱 Currently Learning:
@@ -26,30 +30,27 @@
   - MLOps
   - Advanced Deep Learning
 
-- 💡 Love building real-world AI applications
-- 📫 Email: **yourmail@example.com**
-- 🌐 Portfolio: **Coming Soon**
-- ⚡ Fun fact: I debug more than I sleep 😄
+- 💡 Love building real-world applications
+- ⚡ Exploring research and open-source development
+- 🌐 Portfolio: https://aritrikghosh.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/aritrik-ghosh
+- 🧠 LeetCode: https://leetcode.com/u/aritrikg/
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/aritrik-ghosh" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/aritrikg" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="mailto:yourmail@example.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="50"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<a href="https://leetcode.com/u/aritrikg/" target="blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
 </p>
 
@@ -100,7 +101,7 @@
 ## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux" />
 </p>
 
 ---
@@ -124,7 +125,6 @@
 - YOLOv8
 - OpenCV
 - TensorFlow
-- Deep Learning
 
 ---
 
@@ -134,9 +134,8 @@
 
 ### Features:
 - Real-time emotion detection
-- Mobile integration
+- Transfer learning
 - FER2013 dataset
-- Transfer learning implementation
 
 ---
 
@@ -146,15 +145,14 @@
 
 ### Modules:
 - Patient Management
-- Doctor Dashboard
 - Appointment Booking
-- Admin Panel
+- Admin Dashboard
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-> Full Stack Employee Management Application with modern DevOps integration.
+> Full Stack Employee Management Application with DevOps integration.
 
 ### Technologies:
 - React
@@ -162,17 +160,15 @@
 - Docker
 - Kubernetes
 - Jenkins
-- MySQL
-- MongoDB
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aritrikg&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -180,7 +176,7 @@
 # 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aritrikg&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -188,7 +184,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aritrikg&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -196,23 +192,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-# 😂 Random Meme
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://github-profile-trophy.vercel.app/?username=aritrikg&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -220,17 +200,7 @@
 # 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-# 💰 Support Me
-
-<p>
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=aritrikg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -238,7 +208,7 @@
 # 💡 Quote
 
 <p align="center">
-  
+
 > “Code is like humor. When you have to explain it, it’s bad.”
 
 </p>
