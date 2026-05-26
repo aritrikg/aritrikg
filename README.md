@@ -34,10 +34,59 @@
 
 ## Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,docker,kubernetes,tensorflow,pytorch,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php,bash" />
 </p>
 
+---
+
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+</p>
+
+---
+
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</p>
+
+---
+
+### AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+---
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+</p>
+
+---
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,nginx" />
+</p>
+
+---
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,figma" />
+</p>
+
+---
+
+### Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
 ---
 
 ## GitHub Stats
