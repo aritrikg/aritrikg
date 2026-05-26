@@ -28,7 +28,7 @@
 
 - 💻 Software Developer focused on scalable and high-performance applications
 - 🤖 Specialized in Artificial Intelligence, Machine Learning, and Computer Vision
-- 🔥 Building modern AI-driven and full stack applications
+- 🔥 Building modern AI-driven and full-stack applications
 
 ---
 
@@ -37,55 +37,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,express,spring,tensorflow,pytorch,mongodb,mysql,postgresql,docker,kubernetes,jenkins,aws,linux,git,github,vscode,postman&perline=13" />
 </p>
----
 
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-</p>
-
----
-
-### Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
-</p>
-
----
-
-### AI / Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
----
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
-</p>
-
----
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,nginx" />
-</p>
-
----
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,figma" />
-</p>
-
----
-
-### Operating Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-</p>
----
 
 ## GitHub Stats
 
