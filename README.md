@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aritrik Ghosh</h1>
 
 <p align="center">
@@ -41,9 +45,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aritrikg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aritrikg&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -51,7 +55,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aritrikg&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aritrikg&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +63,7 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aritrikg&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aritrikg&theme=github-compact&hide_border=true" />
 </p>
 
 ---
