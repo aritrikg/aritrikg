@@ -5,20 +5,20 @@
 <h1 align="center">Hi 👋, I'm Aritrik Ghosh</h1>
 
 <p align="center">
-  Software Developer • AI & ML Enthusiast • Full Stack Developer
+  <b>Software Developer</b> • <b>AI & Machine Learning Enthusiast</b> • <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/aritrikg">
-    <img src="https://img.shields.io/github/followers/aritrikg?style=flat-square" />
-  </a>
-
-  <a href="https://leetcode.com/u/aritrikg/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" />
+    <img src="https://img.shields.io/github/followers/aritrikg?label=GitHub&style=for-the-badge&color=181717&logo=github" />
   </a>
 
   <a href="https://linkedin.com/in/aritrik-ghosh">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/aritrikg/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,docker,kubernetes,tensorflow,pytorch,git,github,vscode" />
 </p>
 
@@ -45,11 +45,9 @@
 ## GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aritrikg&show_icons=true&theme=github_dark&hide_border=true" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aritrikg&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aritrikg&theme=github_dark" />
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +55,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aritrikg&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aritrikg&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
