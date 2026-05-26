@@ -12,11 +12,11 @@
   <a href="https://github.com/aritrikg">
     <img src="https://img.shields.io/github/followers/aritrikg?style=flat-square" />
   </a>
-  
+
   <a href="https://leetcode.com/u/aritrikg/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" />
   </a>
-  
+
   <a href="https://linkedin.com/in/aritrik-ghosh">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
@@ -45,9 +45,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aritrikg&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aritrikg&theme=github_dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aritrikg&theme=github_dark" />
+
 </p>
 
 ---
