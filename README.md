@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aritrik Ghosh</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>Technical Writer</b> • <b>Full Stack Developer</b>
+  <b>Software Developer</b> • <b>Technical Writer</b> • <b>ML Researcher</b>
 </p>
 
 <p align="center">
