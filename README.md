@@ -39,14 +39,6 @@
 </p>
 
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aritrikg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrikg&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=Healthline" />
-</p>
-
 ## GitHub Streak
 
 <p align="center">
