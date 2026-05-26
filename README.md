@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aritrik Ghosh</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>AI & Machine Learning Enthusiast</b> • <b>Full Stack Developer</b>
+  <b>Software Developer</b> • <b>Technical Writer</b> • <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
@@ -26,11 +26,9 @@
 
 ## About Me
 
-- 💻 Software Developer passionate about scalable applications
-- 🤖 Interested in AI, Machine Learning and Computer Vision
-- 🔥 Working on Forest Fire Detection using YOLOv8
-- 🌐 Portfolio:  
-  https://aritrikghosh.vercel.app/
+- 💻 Software Developer focused on scalable and high-performance applications
+- 🤖 Specialized in Artificial Intelligence, Machine Learning, and Computer Vision
+- 🔥 Building modern AI-driven and full stack applications
 
 ---
 
