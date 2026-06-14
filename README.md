@@ -8,19 +8,6 @@
   <b>Software Developer</b> • <b>Technical Writer</b> • <b>ML Researcher</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aritrikg">
-    <img src="https://img.shields.io/github/followers/aritrikg?label=GitHub&style=for-the-badge&color=181717&logo=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/aritrik-ghosh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/aritrikg/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
 
 ---
 
