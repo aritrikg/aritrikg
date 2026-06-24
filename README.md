@@ -21,7 +21,7 @@ Software engineer focused on building backend systems. Go is my primary language
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-onewho-knocks&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritrikg&theme=midnight_purple)
 
 
 <br/>
