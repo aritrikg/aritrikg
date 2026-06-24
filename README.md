@@ -4,8 +4,7 @@
 <div align="center">
   
 # About Me:
-Software engineer focused on building backend systems. Go is my primary language, but I’m language-agnostic and comfortable working across stacks. I care about clean architecture, clear APIs, databases, and system reliability, and I continuously sharpen my fundamentals through DSA and hands-on projects.
-
+Pragmatic Software Engineer dedicated to building reliable, high-performance systems. Comfortable working across the stack, with deep expertise in Java, database management, and clean architecture. Focused on writing maintainable code and solving complex problems from a first-principles approach.
 </div>
 
 <div align="center">
